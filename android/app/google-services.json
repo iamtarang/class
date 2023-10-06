@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "847524216629",
+    "project_id": "kakshafindr1",
+    "storage_bucket": "kakshafindr1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847524216629:android:fc5c4d3bf6f256da2c967c",
+        "android_client_info": {
+          "package_name": "com.example.classfindr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZTJzPoR7z7t94LzOTfVuzi-q3oZ2YHTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847524216629:android:42aebc79a8f069ba2c967c",
+        "android_client_info": {
+          "package_name": "com.example.login1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZTJzPoR7z7t94LzOTfVuzi-q3oZ2YHTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
